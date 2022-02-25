@@ -25,6 +25,7 @@ public class Ex1 {
 		hm.put("One", 1);
 		hm.put("Three", 3);
 		hm.put("Two", 2);
+		//System.out.println(hm.get("Four"));
 		System.out.println(getValues(hm));
 	}
 

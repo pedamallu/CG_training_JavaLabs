@@ -2,6 +2,7 @@ package collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Iterator;
 
 public class Ex7 {
 	/**
@@ -27,6 +28,7 @@ public class Ex7 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(getSorted(new int[] {321,432,561}));
+	
 	}
 
 }
